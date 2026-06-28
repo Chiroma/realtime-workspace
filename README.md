@@ -66,7 +66,7 @@ A high-fidelity, real-time project management workspace built using **React 19**
 
 ---
 
-## 👨‍💻 Author
-**[Your Name]**
-* **LinkedIn:** [Your Link]
-* **Portfolio:** [Your Link]
+[comment]: <> ## 👨‍💻 Author
+[comment]: <> **[Your Name]**
+[comment]: <> * **LinkedIn:** [Your Link]
+[comment]: <> * **Portfolio:** [Your Link]
