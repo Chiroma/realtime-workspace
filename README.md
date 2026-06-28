@@ -63,10 +63,3 @@ A high-fidelity, real-time project management workspace built using **React 19**
 * **Why WebSockets over Polling?** Instead of hammering an API endpoint every few seconds, WebSockets open a single persistent TCP connection, keeping server overhead minimal and reducing data consumption.
 * **Why `useCallback` on Mutation Methods?** Wrapped the main array transformation handlers in `useCallback` to prevent garbage collection sweeps and unnecessary downstream re-renders across custom hook tracking scopes.
 * **Strict Handshake Cleanup:** Implemented strict conditional checks inside the `useEffect` unmount state cleanup hook to intercept and safely isolate React StrictMode dual-mount event collisions during local profiling cycles.
-
----
-
-[comment]: <> ## 👨‍💻 Author
-[comment]: <> **[Your Name]**
-[comment]: <> * **LinkedIn:** [Your Link]
-[comment]: <> * **Portfolio:** [Your Link]
